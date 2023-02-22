@@ -12,9 +12,8 @@
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  处理了word level analysis需要的数据，以及其他页面的部分数据
+2.  搭建了word-level analysis的网页和部分sentence-level analysis的网页
+3.  
 
 
